@@ -138,7 +138,7 @@ public class StringListImpl implements StringList {
 
     @Override
     public void clear() {
-
+        size = 0;
 
     }
 
